@@ -1,5 +1,5 @@
 /**
- * Package designed to support batch execution of test cases, as well as execution from HP ALM/QC
+ * Package containing reusable libraries which are specific to Cognizant's CRAFT Framework on Selenium
  * @author Cognizant
  */
-package allocator;
+package supportlibraries;
